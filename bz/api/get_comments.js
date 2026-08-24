@@ -1,0 +1,1 @@
+window.bzStaticComments={"success": true, "data": [{"id": 7, "name": "李淳风(官H5-2区)", "email": "", "content": "有使用问题欢迎反馈，有好的建议欢迎提出，想来群里玩点右上角加Q群。", "avatar": "李", "likes": 5, "created_at": "2026-07-04 06:50:49", "liked": false, "time": "07-04 06:50", "replies": []}]};
